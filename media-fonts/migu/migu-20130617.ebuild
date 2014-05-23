@@ -17,8 +17,8 @@ FONT_SUFFIX="ttf"
 FONT_CONF=( "${FILESDIR}/90-migu.conf" )
 
 src_install() {
-	FONT_S="${WORKDIR}/migu-1c-${PV}/" FONT_SUFFIX="ttf" font_src_install
-	FONT_S="${WORKDIR}/migu-1m-${PV}/" FONT_SUFFIX="ttf" font_src_install
-	FONT_S="${WORKDIR}/migu-1p-${PV}/" FONT_SUFFIX="ttf" font_src_install
-	FONT_S="${WORKDIR}/migu-2m-${PV}/" FONT_SUFFIX="ttf" font_src_install
+	FONT_S="${WORKDIR}/migu-1c-${PV}/" font_src_install
+	FONT_S="${WORKDIR}/migu-1m-${PV}/" font_src_install
+	FONT_S="${WORKDIR}/migu-1p-${PV}/" font_src_install
+	FONT_S="${WORKDIR}/migu-2m-${PV}/" font_src_install
 }
