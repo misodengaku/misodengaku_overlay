@@ -9,6 +9,6 @@
 			<email>misodengaku@gmail.com</email>
 			<name>dengaku miso</name>
 		</owner>
-		<source type="git">https://github.com/misodengaku/misodengaku_overlay.git</source>
+		<source type="git">git://github.com/misodengaku/misodengaku_overlay.git</source>
 	</repo>
 </repositories>
