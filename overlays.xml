@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories version="1.0">
+	<repo quality="experimental" status="unofficial">
+		<name>misodengaku-overlay</name>
+		<description>misodengaku's overlay</description>
+		<homepage>https://github.com/misodengaku/misodengaku_overlay</homepage>
+		<owner>
+			<email>misodengaku@gmail.com</email>
+			<name>dengaku miso</name>
+		</owner>
+		<source type="git">https://github.com/misodengaku/misodengaku_overlay.git</source>
+	</repo>
+</repositories>
